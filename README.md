@@ -1,7 +1,14 @@
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-lopes-bastos-723467b1/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-128c7e?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/14996591206)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/rafael.lopesbastos)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rafalopesb@hotmail.com)](mailto:rafalopesb@hotmail.com)
+
+
+### Bem-vindos! 👋
+
+✨ Muito prazer em conhecê-los ✨ 
 
 <!--
-**rafalopesb/rafalopesb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Fun fact: ...
+!>
